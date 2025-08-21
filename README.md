@@ -9,5 +9,5 @@ Predict whether a loan application will be Approved ✅ or Rejected ❌ based on
 - **Tools:** Jupyter Notebook
 
 ## Usage
-1.  Open the Jupyter Notebook file `loan_prediction_model.ipynb`.
+1.  Open the Jupyter Notebook file `LoanApprovalPrediction.ipynb`.
 2.  Run all the cells to train the model and see the prediction results.
